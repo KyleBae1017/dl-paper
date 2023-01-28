@@ -1,7 +1,7 @@
 # 📑 Deep Learning Papers What I Read / Plan to Read
 
 - Major Interests : GNNs, Generative models, Transformer-based models
-- Reading not only papers about interesting topics, also essential papers to understand deep learning techniques and trend
+- Reading not only papers about interesting topics, also various and essential papers to understand deep learning techniques and trend
 
 ## GNNs
 ### Basic Graph ML / GNNs
