@@ -17,7 +17,9 @@
 - [Original Paper Link](https://arxiv.org/abs/1710.10903)
 - [ ] Predict Then Propagate: Graph Neural Networks Meet Personalized PageRank (PPNP/APPNP, ICLR 2019)
 - [Original Paper Link](https://arxiv.org/abs/1810.05997)
-
+- [ ] Do Transformers Really Perform Bad for Graph Representation? (Graphormer, NeurIPS 2021)
+- [Original Paper Link](https://arxiv.org/abs/2106.05234)
+ 
 ### Heterogeneous Graphs
 - [ ] metapath2vec: Scalable Representation Learning for Heterogeneous Networks (SIGKDD 2017)
 - [Original Paper Link](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
@@ -33,6 +35,8 @@
 - [Original Paper Link](https://arxiv.org/abs/1905.05178)
 - [ ] Rethinking Pooling in Graph Neural Networks (NeurIPS 2020)
 - [Original Paper Link](https://arxiv.org/abs/2010.11418)
+- [ ] Accurate Learning of Graph Representations with Graph Multiset Pooling (GMT (Graph Multiset Transformer), ICLR 2021)
+- [Original Paper Link](https://openreview.net/forum?id=JHcqXGaqiGn)
 
 ## Generative Models
 ### Diffusion
