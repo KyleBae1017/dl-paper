@@ -41,7 +41,8 @@
 ## Generative Models
 ### Diffusion
 - [ ] Denoising Diffusion Probabilistic Models (DDPM, NeurIPS 2020)
-- [Original Paper Link](https://arxiv.org/abs/2105.01601)
+- [Original Paper Link](https://arxiv.org/abs/2006.11239)
+
 ## Computer Vision
 ### Transformer-based models
 - [ ] Attention Is All You Need (Transformer, NeurIPS 2017)
