@@ -38,6 +38,20 @@
 - [ ] Accurate Learning of Graph Representations with Graph Multiset Pooling (GMT (Graph Multiset Transformer), ICLR 2021)
 - [Original Paper Link](https://openreview.net/forum?id=JHcqXGaqiGn)
 
+### Scene Graph Generation (SGG)
+
+#### Papers
+- [ ] Scene Graph Generation by Iterative Message Passing (CVPR 2017)
+- [Original Paper Link](https://arxiv.org/abs/1701.02426)
+- [ ] Graph R-CNN for Scene Graph Generation (ECCV 2018)
+- [Original Paper Link](https://arxiv.org/abs/1808.00191)
+
+#### Surveys
+- [ ] A Comprehensive Survey of Scene Graphs: Generation and Application (Survey paper on IEEE TPAMI, 2021)
+- [Original Paper Link](https://arxiv.org/abs/2104.01111)
+- [ ] Scene Graph Generation: A Comprehensive Survey (Survey paper, 2022)
+- [Original Paper Link](https://arxiv.org/abs/2201.00443)
+
 ## Generative Models
 ### Diffusion
 - [ ] Denoising Diffusion Probabilistic Models (DDPM, NeurIPS 2020)
