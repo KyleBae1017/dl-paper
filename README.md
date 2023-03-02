@@ -43,7 +43,7 @@
 #### Papers
 - [ ] Scene Graph Generation by Iterative Message Passing (CVPR 2017)
 - [Original Paper Link](https://arxiv.org/abs/1701.02426)
-- [ ] Graph R-CNN for Scene Graph Generation (ECCV 2018)
+- [X] Graph R-CNN for Scene Graph Generation (ECCV 2018)
 - [Original Paper Link](https://arxiv.org/abs/1808.00191)
 
 #### Surveys
