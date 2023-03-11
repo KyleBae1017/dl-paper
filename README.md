@@ -56,6 +56,9 @@
 ### Diffusion
 - [ ] Denoising Diffusion Probabilistic Models (DDPM, NeurIPS 2020)
 - [Original Paper Link](https://arxiv.org/abs/2006.11239)
+### GAN
+- [ ] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN, ICCV 2017)
+- [Original Paper Link](https://arxiv.org/abs/1703.10593)
 
 ## Computer Vision
 ### Transformer-based models
